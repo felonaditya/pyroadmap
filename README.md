@@ -1,2 +1,0 @@
-# pyroadmap
-Python Roadmap
